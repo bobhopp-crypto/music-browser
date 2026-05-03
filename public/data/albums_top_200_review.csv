@@ -1,0 +1,201 @@
+artist,album,year,rating,cover_path
+Adele,21,2011,1146.0,/covers/adele_-_21.jpg
+Michael Jackson,Thriller,1982,1116.0,/covers/michael_jackson_-_thriller.jpg
+Fleetwood Mac,Rumours,1977,847.5,/covers/fleetwood_mac_-_rumours.jpg
+Bruce Springsteen,Born In The U.S.A.,1984,753.5,/covers/bruce_springsteen_-_born_in_the_usa.jpg
+Pink Floyd,The Dark Side Of The Moon,1973,751.5,/covers/pink_floyd_-_the_dark_side_of_the_moon.jpg
+Andy Williams,Days Of Wine And Roses,1963,738.0,/covers/andy_williams_-_days_of_wine_and_roses.jpg
+Alanis Morissette,Jagged Little Pill,1995,721.5,/covers/alanis_morissette_-_jagged_little_pill.jpg
+Def Leppard,Hysteria,1987,712.0,/covers/def_leppard_-_hysteria.jpg
+Taylor Swift,Fearless,2008,695.5,/covers/taylor_swift_-_fearless.jpg
+Carole King,Tapestry,1971,675.0,/covers/carole_king_-_tapestry.jpg
+Taylor Swift,1989,2014,675.0,/covers/taylor_swift_-_1989.jpg
+Paula Abdul,Forever Your Girl,1988,663.5,/covers/paula_abdul_-_forever_your_girl.jpg
+Whitney Houston,Whitney Houston,1985,634.0,/covers/whitney_houston_-_whitney_houston.jpg
+Metallica,Metallica,1991,623.0,/covers/metallica_-_metallica.jpg
+Shania Twain,Come On Over,1997,594.5,/covers/shania_twain_-_come_on_over.jpg
+Lady Gaga,The Fame,2008,570.0,/covers/lady_gaga_-_the_fame.jpg
+Hootie & The Blowfish,Cracked Rear View,1994,565.5,/covers/hootie_the_blowfish_-_cracked_rear_view.jpg
+George Michael,Faith,1987,563.0,/covers/george_michael_-_faith.jpg
+Billy Ray Cyrus,Some Gave All,1992,551.5,/covers/billy_ray_cyrus_-_some_gave_all.jpg
+Drake,Views,2016,551.0,/covers/drake_-_views.jpg
+Garth Brooks,No Fences,1990,544.0,/covers/garth_brooks_-_no_fences.jpg
+Mariah Carey,Mariah Carey,1990,543.5,/covers/mariah_carey_-_mariah_carey.jpg
+twenty one pilots,Blurryface,2015,520.0,/covers/twenty_one_pilots_-_blurryface.jpg
+Santana,Supernatural,1999,517.5,/covers/santana_-_supernatural.jpg
+The Police,Synchronicity,1983,507.5,/covers/the_police_-_synchronicity.jpg
+Pearl Jam,Ten,1992,505.5,/covers/pearl_jam_-_ten.jpg
+Adele,25,2015,505.0,/covers/adele_-_25.jpg
+Nickelback,All The Right Reasons,2005,502.0,/covers/nickelback_-_all_the_right_reasons.jpg
+Norah Jones,Come Away With Me,2002,502.0,/covers/norah_jones_-_come_away_with_me.jpg
+Bon Jovi,Slippery When Wet,1986,489.0,/covers/bon_jovi_-_slippery_when_wet.jpg
+Imagine Dragons,Night Visions,2012,482.5,/covers/imagine_dragons_-_night_visions.jpg
+Backstreet Boys,Backstreet Boys,1997,479.5,/covers/backstreet_boys_-_backstreet_boys.jpg
+Chris Stapleton,Traveller,2015,475.5,/covers/chris_stapleton_-_traveller.jpg
+Sam Smith,In The Lonely Hour,2014,475.0,/covers/sam_smith_-_in_the_lonely_hour.jpg
+Usher,Confessions,2004,473.0,/covers/usher_-_confessions.jpg
+Eminem,The Eminem Show,2002,472.0,/covers/eminem_-_the_eminem_show.jpg
+Nirvana,Nevermind,1991,465.0,/covers/nirvana_-_nevermind.jpg
+Eminem,Recovery,2010,461.0,/covers/eminem_-_recovery.jpg
+Wilson Phillips,Wilson Phillips,1990,460.5,/covers/wilson_phillips_-_wilson_phillips.jpg
+No Doubt,Tragic Kingdom,1996,455.5,/covers/no_doubt_-_tragic_kingdom.jpg
+The Beatles,Abbey Road,1969,454.0,/covers/the_beatles_-_abbey_road.jpg
+Creed,Human Clay,1999,452.0,/covers/creed_-_human_clay.jpg
+Michael Jackson,Bad,1987,450.5,/covers/michael_jackson_-_bad.jpg
+REO Speedwagon,Hi Infidelity,1980,450.5,/covers/reo_speedwagon_-_hi_infidelity.jpg
+Men At Work,Business As Usual,1982,446.0,/covers/men_at_work_-_business_as_usual.jpg
+Stevie Wonder,Songs In The Key Of Life,1976,444.0,/covers/stevie_wonder_-_songs_in_the_key_of_life.jpg
+U2,The Joshua Tree,1987,443.5,/covers/u2_-_the_joshua_tree.jpg
+The Monkees,More Of The Monkees,1967,443.0,/covers/the_monkees_-_more_of_the_monkees.jpg
+Post Malone,Stoney,2016,442.0,/covers/post_malone_-_stoney.jpg
+The Monkees,The Monkees,1966,439.0,/covers/the_monkees_-_the_monkees.jpg
+Pink Floyd,The Wall,1979,436.0,/covers/pink_floyd_-_the_wall.jpg
+Backstreet Boys,Millennium,1999,435.5,/covers/backstreet_boys_-_millennium.jpg
+Herb Alpert & The Tijuana Brass,What Now My Love,1966,434.5,/covers/herb_alpert_the_tijuana_brass_-_what_now_my_love.jpg
+Dire Straits,Brothers In Arms,1985,433.5,/covers/dire_straits_-_brothers_in_arms.jpg
+Fleetwood Mac,Fleetwood Mac,1975,431.0,/covers/fleetwood_mac_-_fleetwood_mac.jpg
+Boyz II Men,II,1994,426.5,/covers/boyz_ii_men_-_ii.jpg
+Phil Collins,No Jacket Required,1985,426.5,/covers/phil_collins_-_no_jacket_required.jpg
+Evanescence,Fallen,2003,426.0,/covers/evanescence_-_fallen.jpg
+Foreigner,4,1981,414.5,/covers/foreigner_-_4.jpg
+Kenny G,Breathless,1992,414.0,/covers/kenny_g_-_breathless.jpg
+Mumford & Sons,Sigh No More,2010,414.0,/covers/mumford_sons_-_sigh_no_more.jpg
+Janet Jackson,Control,1986,412.0,/covers/janet_jackson_-_control.jpg
+Kendrick Lamar,DAMN.,2017,411.0,/covers/kendrick_lamar_-_damn.jpg
+Whitney Houston,Whitney,1987,411.0,/covers/whitney_houston_-_whitney.jpg
+Carrie Underwood,Some Hearts,2005,410.5,/covers/carrie_underwood_-_some_hearts.jpg
+TLC,CrazySexyCool,1994,409.5,/covers/tlc_-_crazysexycool.jpg
+Mariah Carey,Music Box,1993,409.0,/covers/mariah_carey_-_music_box.jpg
+Bruno Mars,24K Magic,2016,403.5,/covers/bruno_mars_-_24k_magic.jpg
+Elton John,Goodbye Yellow Brick Road,1973,401.5,/covers/elton_john_-_goodbye_yellow_brick_road.jpg
+Vanilla Ice,To The Extreme,1990,401.5,/covers/vanilla_ice_-_to_the_extreme.jpg
+Daughtry,Daughtry,2006,399.0,/covers/daughtry_-_daughtry.jpg
+Rihanna,ANTI,2016,395.5,/covers/rihanna_-_anti.jpg
+Bryan Adams,Reckless,1984,393.5,/covers/bryan_adams_-_reckless.jpg
+Eric Clapton,Unplugged,1992,393.5,/covers/eric_clapton_-_unplugged.jpg
+Journey,Escape,1981,392.0,/covers/journey_-_escape.jpg
+Lady Antebellum,Need You Now,2010,387.5,/covers/lady_antebellum_-_need_you_now.jpg
+Spice Girls,Spice,1997,387.5,/covers/spice_girls_-_spice.jpg
+Luke Bryan,Crash My Party,2013,386.5,/covers/luke_bryan_-_crash_my_party.jpg
+Justin Bieber,My World 2.0,2010,383.5,/covers/justin_bieber_-_my_world_20.jpg
+Bruno Mars,Doo-Wops & Hooligans,2010,380.0,/covers/bruno_mars_-_doowops_hooligans.jpg
+AC/DC,Back In Black,1980,375.0,/covers/acdc_-_back_in_black.jpg
+Bruno Mars,Unorthodox Jukebox,2012,374.5,/covers/bruno_mars_-_unorthodox_jukebox.jpg
+Jason Aldean,My Kinda Party,2010,372.5,/covers/jason_aldean_-_my_kinda_party.jpg
+Tina Turner,Private Dancer,1984,372.0,/covers/tina_turner_-_private_dancer.jpg
+The Weeknd,Beauty Behind The Madness,2015,371.0,/covers/the_weeknd_-_beauty_behind_the_madness.jpg
+Def Leppard,Pyromania,1983,367.5,/covers/def_leppard_-_pyromania.jpg
+Sam Hunt,Montevallo,2014,365.0,/covers/sam_hunt_-_montevallo.jpg
+Green Day,American Idiot,2004,361.5,/covers/green_day_-_american_idiot.jpg
+Tears For Fears,Songs From The Big Chair,1985,361.0,/covers/tears_for_fears_-_songs_from_the_big_chair.jpg
+Heart,Heart,1985,357.0,/covers/heart_-_heart.jpg
+Ace Of Base,The Sign,1993,355.0,/covers/ace_of_base_-_the_sign.jpg
+Madonna,Like A Virgin,1984,353.5,/covers/madonna_-_like_a_virgin.jpg
+Jewel,Pieces Of You,1996,351.0,/covers/jewel_-_pieces_of_you.jpg
+Whitesnake,Whitesnake,1987,351.0,/covers/whitesnake_-_whitesnake.jpg
+Nelly,Country Grammar,2000,349.0,/covers/nelly_-_country_grammar.jpg
+Boyz II Men,Cooleyhighharmony,1991,346.5,/covers/boyz_ii_men_-_cooleyhighharmony.jpg
+Various Artists,Shut Down,1963,346.5,/covers/various_artists_-_shut_down.jpg
+Michael Jackson,Off The Wall,1979,345.5,/covers/michael_jackson_-_off_the_wall.jpg
+Shania Twain,The Woman In Me,1995,345.5,/covers/shania_twain_-_the_woman_in_me.jpg
+Mariah Carey,Daydream,1995,343.5,/covers/mariah_carey_-_daydream.jpg
+Eagles,Hotel California,1976,340.5,/covers/eagles_-_hotel_california.jpg
+Eminem,Curtain Call: The Hits,2005,339.0,/covers/eminem_-_curtain_call_the_hits.jpg
+Katy Perry,Teenage Dream,2010,339.0,/covers/katy_perry_-_teenage_dream.jpg
+Chicago,Chicago II,1970,338.0,/covers/chicago_-_chicago_ii.jpg
+Avril Lavigne,Let Go,2002,335.5,/covers/avril_lavigne_-_let_go.jpg
+Green Day,Dookie,1994,334.0,/covers/green_day_-_dookie.jpg
+Santana,Abraxas,1970,334.0,/covers/santana_-_abraxas.jpg
+Eminem,The Marshall Mathers LP,2000,333.5,/covers/eminem_-_the_marshall_mathers_lp.jpg
+John Cougar,American Fool,1982,332.5,/covers/john_cougar_-_american_fool.jpg
+Supertramp,Breakfast In America,1979,330.0,/covers/supertramp_-_breakfast_in_america.jpg
+Billy Joel,An Innocent Man,1983,329.5,/covers/billy_joel_-_an_innocent_man.jpg
+Asia,Asia,1982,327.0,/covers/asia_-_asia.jpg
+Kelly Clarkson,Breakaway,2004,325.0,/covers/kelly_clarkson_-_breakaway.jpg
+Mariah Carey,The Emancipation Of Mimi,2005,323.0,/covers/mariah_carey_-_the_emancipation_of_mimi.jpg
+Madonna,True Blue,1986,320.0,/covers/madonna_-_true_blue.jpg
+Beastie Boys,Licensed To Ill,1986,319.0,/covers/beastie_boys_-_licensed_to_ill.jpg
+The Weeknd,Starboy,2016,318.0,/covers/the_weeknd_-_starboy.jpg
+Christina Aguilera,Christina Aguilera,1999,317.5,/covers/christina_aguilera_-_christina_aguilera.jpg
+Led Zeppelin,Led Zeppelin II,1969,317.5,/covers/led_zeppelin_-_led_zeppelin_ii.jpg
+Boston,Boston,1976,316.5,/covers/boston_-_boston.jpg
+Fine Young Cannibals,The Raw & The Cooked,1989,316.5,/covers/fine_young_cannibals_-_the_raw_the_cooked.jpg
+Taylor Swift,Red,2012,316.5,/covers/taylor_swift_-_red.jpg
+Taylor Swift,Speak Now,2010,313.5,/covers/taylor_swift_-_speak_now.jpg
+Counting Crows,August And Everything After,1994,310.5,/covers/counting_crows_-_august_and_everything_after.jpg
+Tom Petty,Full Moon Fever,1989,310.5,/covers/tom_petty_-_full_moon_fever.jpg
+Wham!,Make It Big,1984,310.5,/covers/wham_-_make_it_big.jpg
+Luke Bryan,Tailgates & Tanlines,2011,308.0,/covers/luke_bryan_-_tailgates_tanlines.jpg
+Natalie Cole,Unforgettable: With Love,1991,308.0,/covers/natalie_cole_-_unforgettable_with_love.jpg
+C+C Music Factory,Gonna Make You Sweat,1991,307.5,/covers/cc_music_factory_-_gonna_make_you_sweat.jpg
+LeAnn Rimes,Blue,1996,307.5,/covers/leann_rimes_-_blue.jpg
+Eagles,Hell Freezes Over,1994,306.5,/covers/eagles_-_hell_freezes_over.jpg
+Michael Bolton,Soul Provider,1989,306.0,/covers/michael_bolton_-_soul_provider.jpg
+The Beatles,Meet The Beatles!,1964,306.0,/covers/the_beatles_-_meet_the_beatles.jpg
+Al Hirt,Honey In The Horn,1963,304.0,/covers/al_hirt_-_honey_in_the_horn.jpg
+Billy Joel,The Stranger,1977,303.5,/covers/billy_joel_-_the_stranger.jpg
+Drake,Take Care,2011,302.5,/covers/drake_-_take_care.jpg
+Justin Bieber,Purpose,2015,302.5,/covers/justin_bieber_-_purpose.jpg
+Stevie Nicks,Bella Donna,1981,301.5,/covers/stevie_nicks_-_bella_donna.jpg
+Mumford & Sons,Babel,2012,298.0,/covers/mumford_sons_-_babel.jpg
+Lauryn Hill,The Miseducation Of Lauryn Hill,1998,297.5,/covers/lauryn_hill_-_the_miseducation_of_lauryn_hill.jpg
+matchbox 20,Yourself Or Someone Like You,1997,296.5,/covers/matchbox_20_-_yourself_or_someone_like_you.jpg
+Billy Joel,52nd Street,1978,296.0,/covers/billy_joel_-_52nd_street.jpg
+Eagles,The Long Run,1979,295.5,/covers/eagles_-_the_long_run.jpg
+Christopher Cross,Christopher Cross,1980,295.0,/covers/christopher_cross_-_christopher_cross.jpg
+Genesis,Invisible Touch,1986,294.5,/covers/genesis_-_invisible_touch.jpg
+Maroon 5,V,2014,294.5,/covers/maroon_5_-_v.jpg
+Barbra Streisand,People,1964,293.0,/covers/barbra_streisand_-_people.jpg
+Bon Jovi,New Jersey,1988,292.5,/covers/bon_jovi_-_new_jersey.jpg
+Billy Joel,Glass Houses,1980,291.5,/covers/billy_joel_-_glass_houses.jpg
+Cream,Disraeli Gears,1967,291.5,/covers/cream_-_disraeli_gears.jpg
+Justin Timberlake,FutureSex/LoveSounds,2006,289.0,/covers/justin_timberlake_-_futuresexlovesounds.jpg
+The Rolling Stones,Tattoo You,1981,289.0,/covers/the_rolling_stones_-_tattoo_you.jpg
+Adele,19,2008,288.0,/covers/adele_-_19.jpg
+Toni Braxton,Secrets,1996,288.0,/covers/toni_braxton_-_secrets.jpg
+The Cars,Heartbeat City,1984,285.5,/covers/the_cars_-_heartbeat_city.jpg
+John Lennon & Yoko Ono,Double Fantasy,1980,284.5,/covers/john_lennon_yoko_ono_-_double_fantasy.jpg
+Michael Jackson,Dangerous,1991,283.5,/covers/michael_jackson_-_dangerous.jpg
+Simon & Garfunkel,Bookends,1968,283.0,/covers/simon_garfunkel_-_bookends.jpg
+Drake,More Life,2017,282.0,/covers/drake_-_more_life.jpg
+Bell Biv DeVoe,Poison,1990,281.5,/covers/bell_biv_devoe_-_poison.jpg
+INXS,Kick,1987,280.5,/covers/inxs_-_kick.jpg
+Nickelback,Dark Horse,2008,280.0,/covers/nickelback_-_dark_horse.jpg
+Rascal Flatts,Me And My Gang,2006,279.5,/covers/rascal_flatts_-_me_and_my_gang.jpg
+Van Halen,1984,1984,279.0,/covers/van_halen_-_1984.jpg
+John Mellencamp,Scarecrow,1985,278.5,/covers/john_mellencamp_-_scarecrow.jpg
+Tim McGraw,Not A Moment Too Soon,1994,278.5,/covers/tim_mcgraw_-_not_a_moment_too_soon.jpg
+Santana,Santana,1969,278.0,/covers/santana_-_santana.jpg
+Cyndi Lauper,She's So Unusual: A 30th Anniversary Celebration,1983,277.5,/covers/cyndi_lauper_-_shes_so_unusual_a_30th_anniversary_celebration.jpg
+Dr. Dre,The Chronic,1993,277.5,/covers/dr_dre_-_the_chronic.jpg
+Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme",1966,277.5,/covers/simon_garfunkel_-_parsley_sage_rosemary_and_thyme.jpg
+Imagine Dragons,Evolve,2017,277.0,/covers/imagine_dragons_-_evolve.jpg
+The Doors,The Doors,1967,277.0,/covers/the_doors_-_the_doors.jpg
+Paul Simon,Graceland,1986,276.5,/covers/paul_simon_-_graceland.jpg
+Simon & Garfunkel,Bridge Over Troubled Water,1970,276.5,/covers/simon_garfunkel_-_bridge_over_troubled_water.jpg
+ZZ Top,Eliminator,1983,276.5,/covers/zz_top_-_eliminator.jpg
+Fugees,The Score,1996,274.0,/covers/fugees_-_the_score.jpg
+Enya,A Day Without Rain,2000,273.5,/covers/enya_-_a_day_without_rain.jpg
+Post Malone,beerbongs & bentleys,2018,272.5,/covers/post_malone_-_beerbongs_bentleys.jpg
+Dixie Chicks,Home,2002,272.0,/covers/dixie_chicks_-_home.jpg
+Spin Doctors,Pocket Full Of Kryptonite,1992,271.5,/covers/spin_doctors_-_pocket_full_of_kryptonite.jpg
+Amy Winehouse,Back To Black,2007,270.0,/covers/amy_winehouse_-_back_to_black.jpg
+Limp Bizkit,Significant Other,1999,269.5,/covers/limp_bizkit_-_significant_other.jpg
+The Offspring,Smash,1994,269.5,/covers/the_offspring_-_smash.jpg
+J. Cole,2014 Forest Hills Drive,2014,268.5,/covers/j_cole_-_2014_forest_hills_drive.jpg
+The Black Eyed Peas,Monkey Business,2005,268.5,/covers/the_black_eyed_peas_-_monkey_business.jpg
+Kris Kross,Totally Krossed Out,1992,267.5,/covers/kris_kross_-_totally_krossed_out.jpg
+Pat Benatar,Crimes Of Passion,1980,267.5,/covers/pat_benatar_-_crimes_of_passion.jpg
+Dixie Chicks,Wide Open Spaces,1998,267.0,/covers/dixie_chicks_-_wide_open_spaces.jpg
+Fergie,The Dutchess,2006,266.0,/covers/fergie_-_the_dutchess.jpg
+Styx,Paradise Theater,1981,265.5,/covers/styx_-_paradise_theater.jpg
+The Black Crowes,Shake Your Money Maker,1990,265.5,/covers/the_black_crowes_-_shake_your_money_maker.jpg
+One Direction,Up All Night,2012,265.0,/covers/one_direction_-_up_all_night.jpg
+Bush,Sixteen Stone,1995,264.5,/covers/bush_-_sixteen_stone.jpg
+Prince,1999,1982,263.0,/covers/prince_-_1999.jpg
+Barbra Streisand,The Barbra Streisand Album,1963,262.5,/covers/barbra_streisand_-_the_barbra_streisand_album.jpg
+Meghan Trainor,Title,2015,261.5,/covers/meghan_trainor_-_title.jpg
+Bonnie Raitt,Luck Of The Draw,1991,261.0,/covers/bonnie_raitt_-_luck_of_the_draw.jpg
+Dixie Chicks,Fly,1999,260.5,/covers/dixie_chicks_-_fly.jpg
+Lil Wayne,Tha Carter III,2008,260.5,/covers/lil_wayne_-_tha_carter_iii.jpg
+The Temptations,The Temptations Greatest Hits,1966,260.0,/covers/the_temptations_-_the_temptations.jpg

@@ -1,0 +1,1202 @@
+[
+  {
+    "artist": "Adele",
+    "album": "21",
+    "cover_path": "/covers/adele_-_21.jpg",
+    "rating": 1146.0
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "cover_path": "/covers/michael_jackson_-_thriller.jpg",
+    "rating": 1116.0
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "album": "Rumours",
+    "cover_path": "/covers/fleetwood_mac_-_rumours.jpg",
+    "rating": 847.5
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "album": "Born In The U.S.A.",
+    "cover_path": "/covers/bruce_springsteen_-_born_in_the_usa.jpg",
+    "rating": 753.5
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Dark Side Of The Moon",
+    "cover_path": "/covers/pink_floyd_-_the_dark_side_of_the_moon.jpg",
+    "rating": 751.5
+  },
+  {
+    "artist": "Andy Williams",
+    "album": "Days Of Wine And Roses",
+    "cover_path": "/covers/andy_williams_-_days_of_wine_and_roses.jpg",
+    "rating": 738.0
+  },
+  {
+    "artist": "Alanis Morissette",
+    "album": "Jagged Little Pill",
+    "cover_path": "/covers/alanis_morissette_-_jagged_little_pill.jpg",
+    "rating": 721.5
+  },
+  {
+    "artist": "Def Leppard",
+    "album": "Hysteria",
+    "cover_path": "/covers/def_leppard_-_hysteria.jpg",
+    "rating": 712.0
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "Fearless",
+    "cover_path": "/covers/taylor_swift_-_fearless.jpg",
+    "rating": 695.5
+  },
+  {
+    "artist": "Carole King",
+    "album": "Tapestry",
+    "cover_path": "/covers/carole_king_-_tapestry.jpg",
+    "rating": 675.0
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "1989",
+    "cover_path": "/covers/taylor_swift_-_1989.jpg",
+    "rating": 675.0
+  },
+  {
+    "artist": "Paula Abdul",
+    "album": "Forever Your Girl",
+    "cover_path": "/covers/paula_abdul_-_forever_your_girl.jpg",
+    "rating": 663.5
+  },
+  {
+    "artist": "Whitney Houston",
+    "album": "Whitney Houston",
+    "cover_path": "/covers/whitney_houston_-_whitney_houston.jpg",
+    "rating": 634.0
+  },
+  {
+    "artist": "Metallica",
+    "album": "Metallica",
+    "cover_path": "/covers/metallica_-_metallica.jpg",
+    "rating": 623.0
+  },
+  {
+    "artist": "Shania Twain",
+    "album": "Come On Over",
+    "cover_path": "/covers/shania_twain_-_come_on_over.jpg",
+    "rating": 594.5
+  },
+  {
+    "artist": "Lady Gaga",
+    "album": "The Fame",
+    "cover_path": "/covers/lady_gaga_-_the_fame.jpg",
+    "rating": 570.0
+  },
+  {
+    "artist": "Hootie & The Blowfish",
+    "album": "Cracked Rear View",
+    "cover_path": "/covers/hootie_the_blowfish_-_cracked_rear_view.jpg",
+    "rating": 565.5
+  },
+  {
+    "artist": "George Michael",
+    "album": "Faith",
+    "cover_path": "/covers/george_michael_-_faith.jpg",
+    "rating": 563.0
+  },
+  {
+    "artist": "Billy Ray Cyrus",
+    "album": "Some Gave All",
+    "cover_path": "/covers/billy_ray_cyrus_-_some_gave_all.jpg",
+    "rating": 551.5
+  },
+  {
+    "artist": "Drake",
+    "album": "Views",
+    "cover_path": "/covers/drake_-_views.jpg",
+    "rating": 551.0
+  },
+  {
+    "artist": "Garth Brooks",
+    "album": "No Fences",
+    "cover_path": "/covers/garth_brooks_-_no_fences.jpg",
+    "rating": 544.0
+  },
+  {
+    "artist": "Mariah Carey",
+    "album": "Mariah Carey",
+    "cover_path": "/covers/mariah_carey_-_mariah_carey.jpg",
+    "rating": 543.5
+  },
+  {
+    "artist": "twenty one pilots",
+    "album": "Blurryface",
+    "cover_path": "/covers/twenty_one_pilots_-_blurryface.jpg",
+    "rating": 520.0
+  },
+  {
+    "artist": "Santana",
+    "album": "Supernatural",
+    "cover_path": "/covers/santana_-_supernatural.jpg",
+    "rating": 517.5
+  },
+  {
+    "artist": "The Police",
+    "album": "Synchronicity",
+    "cover_path": "/covers/the_police_-_synchronicity.jpg",
+    "rating": 507.5
+  },
+  {
+    "artist": "Pearl Jam",
+    "album": "Ten",
+    "cover_path": "/covers/pearl_jam_-_ten.jpg",
+    "rating": 505.5
+  },
+  {
+    "artist": "Adele",
+    "album": "25",
+    "cover_path": "/covers/adele_-_25.jpg",
+    "rating": 505.0
+  },
+  {
+    "artist": "Nickelback",
+    "album": "All The Right Reasons",
+    "cover_path": "/covers/nickelback_-_all_the_right_reasons.jpg",
+    "rating": 502.0
+  },
+  {
+    "artist": "Norah Jones",
+    "album": "Come Away With Me",
+    "cover_path": "/covers/norah_jones_-_come_away_with_me.jpg",
+    "rating": 502.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "album": "Slippery When Wet",
+    "cover_path": "/covers/bon_jovi_-_slippery_when_wet.jpg",
+    "rating": 489.0
+  },
+  {
+    "artist": "Imagine Dragons",
+    "album": "Night Visions",
+    "cover_path": "/covers/imagine_dragons_-_night_visions.jpg",
+    "rating": 482.5
+  },
+  {
+    "artist": "Backstreet Boys",
+    "album": "Backstreet Boys",
+    "cover_path": "/covers/backstreet_boys_-_backstreet_boys.jpg",
+    "rating": 479.5
+  },
+  {
+    "artist": "Chris Stapleton",
+    "album": "Traveller",
+    "cover_path": "/covers/chris_stapleton_-_traveller.jpg",
+    "rating": 475.5
+  },
+  {
+    "artist": "Sam Smith",
+    "album": "In The Lonely Hour",
+    "cover_path": "/covers/sam_smith_-_in_the_lonely_hour.jpg",
+    "rating": 475.0
+  },
+  {
+    "artist": "Usher",
+    "album": "Confessions",
+    "cover_path": "/covers/usher_-_confessions.jpg",
+    "rating": 473.0
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Eminem Show",
+    "cover_path": "/covers/eminem_-_the_eminem_show.jpg",
+    "rating": 472.0
+  },
+  {
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "cover_path": "/covers/nirvana_-_nevermind.jpg",
+    "rating": 465.0
+  },
+  {
+    "artist": "Eminem",
+    "album": "Recovery",
+    "cover_path": "/covers/eminem_-_recovery.jpg",
+    "rating": 461.0
+  },
+  {
+    "artist": "Wilson Phillips",
+    "album": "Wilson Phillips",
+    "cover_path": "/covers/wilson_phillips_-_wilson_phillips.jpg",
+    "rating": 460.5
+  },
+  {
+    "artist": "No Doubt",
+    "album": "Tragic Kingdom",
+    "cover_path": "/covers/no_doubt_-_tragic_kingdom.jpg",
+    "rating": 455.5
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Abbey Road",
+    "cover_path": "/covers/the_beatles_-_abbey_road.jpg",
+    "rating": 454.0
+  },
+  {
+    "artist": "Creed",
+    "album": "Human Clay",
+    "cover_path": "/covers/creed_-_human_clay.jpg",
+    "rating": 452.0
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Bad",
+    "cover_path": "/covers/michael_jackson_-_bad.jpg",
+    "rating": 450.5
+  },
+  {
+    "artist": "REO Speedwagon",
+    "album": "Hi Infidelity",
+    "cover_path": "/covers/reo_speedwagon_-_hi_infidelity.jpg",
+    "rating": 450.5
+  },
+  {
+    "artist": "Men At Work",
+    "album": "Business As Usual",
+    "cover_path": "/covers/men_at_work_-_business_as_usual.jpg",
+    "rating": 446.0
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Songs In The Key Of Life",
+    "cover_path": "/covers/stevie_wonder_-_songs_in_the_key_of_life.jpg",
+    "rating": 444.0
+  },
+  {
+    "artist": "U2",
+    "album": "The Joshua Tree",
+    "cover_path": "/covers/u2_-_the_joshua_tree.jpg",
+    "rating": 443.5
+  },
+  {
+    "artist": "The Monkees",
+    "album": "More Of The Monkees",
+    "cover_path": "/covers/the_monkees_-_more_of_the_monkees.jpg",
+    "rating": 443.0
+  },
+  {
+    "artist": "Post Malone",
+    "album": "Stoney",
+    "cover_path": "/covers/post_malone_-_stoney.jpg",
+    "rating": 442.0
+  },
+  {
+    "artist": "The Monkees",
+    "album": "The Monkees",
+    "cover_path": "/covers/the_monkees_-_the_monkees.jpg",
+    "rating": 439.0
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Wall",
+    "cover_path": "/covers/pink_floyd_-_the_wall.jpg",
+    "rating": 436.0
+  },
+  {
+    "artist": "Backstreet Boys",
+    "album": "Millennium",
+    "cover_path": "/covers/backstreet_boys_-_millennium.jpg",
+    "rating": 435.5
+  },
+  {
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "album": "What Now My Love",
+    "cover_path": "/covers/herb_alpert_the_tijuana_brass_-_what_now_my_love.jpg",
+    "rating": 434.5
+  },
+  {
+    "artist": "Dire Straits",
+    "album": "Brothers In Arms",
+    "cover_path": "/covers/dire_straits_-_brothers_in_arms.jpg",
+    "rating": 433.5
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "album": "Fleetwood Mac",
+    "cover_path": "/covers/fleetwood_mac_-_fleetwood_mac.jpg",
+    "rating": 431.0
+  },
+  {
+    "artist": "Boyz II Men",
+    "album": "II",
+    "cover_path": "/covers/boyz_ii_men_-_ii.jpg",
+    "rating": 426.5
+  },
+  {
+    "artist": "Phil Collins",
+    "album": "No Jacket Required",
+    "cover_path": "/covers/phil_collins_-_no_jacket_required.jpg",
+    "rating": 426.5
+  },
+  {
+    "artist": "Evanescence",
+    "album": "Fallen",
+    "cover_path": "/covers/evanescence_-_fallen.jpg",
+    "rating": 426.0
+  },
+  {
+    "artist": "Foreigner",
+    "album": "4",
+    "cover_path": "/covers/foreigner_-_4.jpg",
+    "rating": 414.5
+  },
+  {
+    "artist": "Kenny G",
+    "album": "Breathless",
+    "cover_path": "/covers/kenny_g_-_breathless.jpg",
+    "rating": 414.0
+  },
+  {
+    "artist": "Mumford & Sons",
+    "album": "Sigh No More",
+    "cover_path": "/covers/mumford_sons_-_sigh_no_more.jpg",
+    "rating": 414.0
+  },
+  {
+    "artist": "Janet Jackson",
+    "album": "Control",
+    "cover_path": "/covers/janet_jackson_-_control.jpg",
+    "rating": 412.0
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "cover_path": "/covers/kendrick_lamar_-_damn.jpg",
+    "rating": 411.0
+  },
+  {
+    "artist": "Whitney Houston",
+    "album": "Whitney",
+    "cover_path": "/covers/whitney_houston_-_whitney.jpg",
+    "rating": 411.0
+  },
+  {
+    "artist": "Carrie Underwood",
+    "album": "Some Hearts",
+    "cover_path": "/covers/carrie_underwood_-_some_hearts.jpg",
+    "rating": 410.5
+  },
+  {
+    "artist": "TLC",
+    "album": "CrazySexyCool",
+    "cover_path": "/covers/tlc_-_crazysexycool.jpg",
+    "rating": 409.5
+  },
+  {
+    "artist": "Mariah Carey",
+    "album": "Music Box",
+    "cover_path": "/covers/mariah_carey_-_music_box.jpg",
+    "rating": 409.0
+  },
+  {
+    "artist": "Bruno Mars",
+    "album": "24K Magic",
+    "cover_path": "/covers/bruno_mars_-_24k_magic.jpg",
+    "rating": 403.5
+  },
+  {
+    "artist": "Elton John",
+    "album": "Goodbye Yellow Brick Road",
+    "cover_path": "/covers/elton_john_-_goodbye_yellow_brick_road.jpg",
+    "rating": 401.5
+  },
+  {
+    "artist": "Vanilla Ice",
+    "album": "To The Extreme",
+    "cover_path": "/covers/vanilla_ice_-_to_the_extreme.jpg",
+    "rating": 401.5
+  },
+  {
+    "artist": "Daughtry",
+    "album": "Daughtry",
+    "cover_path": "/covers/daughtry_-_daughtry.jpg",
+    "rating": 399.0
+  },
+  {
+    "artist": "Rihanna",
+    "album": "ANTI",
+    "cover_path": "/covers/rihanna_-_anti.jpg",
+    "rating": 395.5
+  },
+  {
+    "artist": "Bryan Adams",
+    "album": "Reckless",
+    "cover_path": "/covers/bryan_adams_-_reckless.jpg",
+    "rating": 393.5
+  },
+  {
+    "artist": "Eric Clapton",
+    "album": "Unplugged",
+    "cover_path": "/covers/eric_clapton_-_unplugged.jpg",
+    "rating": 393.5
+  },
+  {
+    "artist": "Journey",
+    "album": "Escape",
+    "cover_path": "/covers/journey_-_escape.jpg",
+    "rating": 392.0
+  },
+  {
+    "artist": "Lady Antebellum",
+    "album": "Need You Now",
+    "cover_path": "/covers/lady_antebellum_-_need_you_now.jpg",
+    "rating": 387.5
+  },
+  {
+    "artist": "Spice Girls",
+    "album": "Spice",
+    "cover_path": "/covers/spice_girls_-_spice.jpg",
+    "rating": 387.5
+  },
+  {
+    "artist": "Luke Bryan",
+    "album": "Crash My Party",
+    "cover_path": "/covers/luke_bryan_-_crash_my_party.jpg",
+    "rating": 386.5
+  },
+  {
+    "artist": "Justin Bieber",
+    "album": "My World 2.0",
+    "cover_path": "/covers/justin_bieber_-_my_world_20.jpg",
+    "rating": 383.5
+  },
+  {
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "cover_path": "/covers/bruno_mars_-_doowops_hooligans.jpg",
+    "rating": 380.0
+  },
+  {
+    "artist": "AC/DC",
+    "album": "Back In Black",
+    "cover_path": "/covers/acdc_-_back_in_black.jpg",
+    "rating": 375.0
+  },
+  {
+    "artist": "Bruno Mars",
+    "album": "Unorthodox Jukebox",
+    "cover_path": "/covers/bruno_mars_-_unorthodox_jukebox.jpg",
+    "rating": 374.5
+  },
+  {
+    "artist": "Jason Aldean",
+    "album": "My Kinda Party",
+    "cover_path": "/covers/jason_aldean_-_my_kinda_party.jpg",
+    "rating": 372.5
+  },
+  {
+    "artist": "Tina Turner",
+    "album": "Private Dancer",
+    "cover_path": "/covers/tina_turner_-_private_dancer.jpg",
+    "rating": 372.0
+  },
+  {
+    "artist": "The Weeknd",
+    "album": "Beauty Behind The Madness",
+    "cover_path": "/covers/the_weeknd_-_beauty_behind_the_madness.jpg",
+    "rating": 371.0
+  },
+  {
+    "artist": "Def Leppard",
+    "album": "Pyromania",
+    "cover_path": "/covers/def_leppard_-_pyromania.jpg",
+    "rating": 367.5
+  },
+  {
+    "artist": "Sam Hunt",
+    "album": "Montevallo",
+    "cover_path": "/covers/sam_hunt_-_montevallo.jpg",
+    "rating": 365.0
+  },
+  {
+    "artist": "Green Day",
+    "album": "American Idiot",
+    "cover_path": "/covers/green_day_-_american_idiot.jpg",
+    "rating": 361.5
+  },
+  {
+    "artist": "Tears For Fears",
+    "album": "Songs From The Big Chair",
+    "cover_path": "/covers/tears_for_fears_-_songs_from_the_big_chair.jpg",
+    "rating": 361.0
+  },
+  {
+    "artist": "Heart",
+    "album": "Heart",
+    "cover_path": "/covers/heart_-_heart.jpg",
+    "rating": 357.0
+  },
+  {
+    "artist": "Ace Of Base",
+    "album": "The Sign",
+    "cover_path": "/covers/ace_of_base_-_the_sign.jpg",
+    "rating": 355.0
+  },
+  {
+    "artist": "Madonna",
+    "album": "Like A Virgin",
+    "cover_path": "/covers/madonna_-_like_a_virgin.jpg",
+    "rating": 353.5
+  },
+  {
+    "artist": "Jewel",
+    "album": "Pieces Of You",
+    "cover_path": "/covers/jewel_-_pieces_of_you.jpg",
+    "rating": 351.0
+  },
+  {
+    "artist": "Whitesnake",
+    "album": "Whitesnake",
+    "cover_path": "/covers/whitesnake_-_whitesnake.jpg",
+    "rating": 351.0
+  },
+  {
+    "artist": "Nelly",
+    "album": "Country Grammar",
+    "cover_path": "/covers/nelly_-_country_grammar.jpg",
+    "rating": 349.0
+  },
+  {
+    "artist": "Boyz II Men",
+    "album": "Cooleyhighharmony",
+    "cover_path": "/covers/boyz_ii_men_-_cooleyhighharmony.jpg",
+    "rating": 346.5
+  },
+  {
+    "artist": "Various Artists",
+    "album": "Shut Down",
+    "cover_path": "/covers/various_artists_-_shut_down.jpg",
+    "rating": 346.5
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Off The Wall",
+    "cover_path": "/covers/michael_jackson_-_off_the_wall.jpg",
+    "rating": 345.5
+  },
+  {
+    "artist": "Shania Twain",
+    "album": "The Woman In Me",
+    "cover_path": "/covers/shania_twain_-_the_woman_in_me.jpg",
+    "rating": 345.5
+  },
+  {
+    "artist": "Mariah Carey",
+    "album": "Daydream",
+    "cover_path": "/covers/mariah_carey_-_daydream.jpg",
+    "rating": 343.5
+  },
+  {
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "cover_path": "/covers/eagles_-_hotel_california.jpg",
+    "rating": 340.5
+  },
+  {
+    "artist": "Eminem",
+    "album": "Curtain Call: The Hits",
+    "cover_path": "/covers/eminem_-_curtain_call_the_hits.jpg",
+    "rating": 339.0
+  },
+  {
+    "artist": "Katy Perry",
+    "album": "Teenage Dream",
+    "cover_path": "/covers/katy_perry_-_teenage_dream.jpg",
+    "rating": 339.0
+  },
+  {
+    "artist": "Chicago",
+    "album": "Chicago II",
+    "cover_path": "/covers/chicago_-_chicago_ii.jpg",
+    "rating": 338.0
+  },
+  {
+    "artist": "Avril Lavigne",
+    "album": "Let Go",
+    "cover_path": "/covers/avril_lavigne_-_let_go.jpg",
+    "rating": 335.5
+  },
+  {
+    "artist": "Green Day",
+    "album": "Dookie",
+    "cover_path": "/covers/green_day_-_dookie.jpg",
+    "rating": 334.0
+  },
+  {
+    "artist": "Santana",
+    "album": "Abraxas",
+    "cover_path": "/covers/santana_-_abraxas.jpg",
+    "rating": 334.0
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Marshall Mathers LP",
+    "cover_path": "/covers/eminem_-_the_marshall_mathers_lp.jpg",
+    "rating": 333.5
+  },
+  {
+    "artist": "John Cougar",
+    "album": "American Fool",
+    "cover_path": "/covers/john_cougar_-_american_fool.jpg",
+    "rating": 332.5
+  },
+  {
+    "artist": "Supertramp",
+    "album": "Breakfast In America",
+    "cover_path": "/covers/supertramp_-_breakfast_in_america.jpg",
+    "rating": 330.0
+  },
+  {
+    "artist": "Billy Joel",
+    "album": "An Innocent Man",
+    "cover_path": "/covers/billy_joel_-_an_innocent_man.jpg",
+    "rating": 329.5
+  },
+  {
+    "artist": "Asia",
+    "album": "Asia",
+    "cover_path": "/covers/asia_-_asia.jpg",
+    "rating": 327.0
+  },
+  {
+    "artist": "Kelly Clarkson",
+    "album": "Breakaway",
+    "cover_path": "/covers/kelly_clarkson_-_breakaway.jpg",
+    "rating": 325.0
+  },
+  {
+    "artist": "Mariah Carey",
+    "album": "The Emancipation Of Mimi",
+    "cover_path": "/covers/mariah_carey_-_the_emancipation_of_mimi.jpg",
+    "rating": 323.0
+  },
+  {
+    "artist": "Madonna",
+    "album": "True Blue",
+    "cover_path": "/covers/madonna_-_true_blue.jpg",
+    "rating": 320.0
+  },
+  {
+    "artist": "Beastie Boys",
+    "album": "Licensed To Ill",
+    "cover_path": "/covers/beastie_boys_-_licensed_to_ill.jpg",
+    "rating": 319.0
+  },
+  {
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "cover_path": "/covers/the_weeknd_-_starboy.jpg",
+    "rating": 318.0
+  },
+  {
+    "artist": "Christina Aguilera",
+    "album": "Christina Aguilera",
+    "cover_path": "/covers/christina_aguilera_-_christina_aguilera.jpg",
+    "rating": 317.5
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin II",
+    "cover_path": "/covers/led_zeppelin_-_led_zeppelin_ii.jpg",
+    "rating": 317.5
+  },
+  {
+    "artist": "Boston",
+    "album": "Boston",
+    "cover_path": "/covers/boston_-_boston.jpg",
+    "rating": 316.5
+  },
+  {
+    "artist": "Fine Young Cannibals",
+    "album": "The Raw & The Cooked",
+    "cover_path": "/covers/fine_young_cannibals_-_the_raw_the_cooked.jpg",
+    "rating": 316.5
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "cover_path": "/covers/taylor_swift_-_red.jpg",
+    "rating": 316.5
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "Speak Now",
+    "cover_path": "/covers/taylor_swift_-_speak_now.jpg",
+    "rating": 313.5
+  },
+  {
+    "artist": "Counting Crows",
+    "album": "August And Everything After",
+    "cover_path": "/covers/counting_crows_-_august_and_everything_after.jpg",
+    "rating": 310.5
+  },
+  {
+    "artist": "Tom Petty",
+    "album": "Full Moon Fever",
+    "cover_path": "/covers/tom_petty_-_full_moon_fever.jpg",
+    "rating": 310.5
+  },
+  {
+    "artist": "Wham!",
+    "album": "Make It Big",
+    "cover_path": "/covers/wham_-_make_it_big.jpg",
+    "rating": 310.5
+  },
+  {
+    "artist": "Luke Bryan",
+    "album": "Tailgates & Tanlines",
+    "cover_path": "/covers/luke_bryan_-_tailgates_tanlines.jpg",
+    "rating": 308.0
+  },
+  {
+    "artist": "Natalie Cole",
+    "album": "Unforgettable: With Love",
+    "cover_path": "/covers/natalie_cole_-_unforgettable_with_love.jpg",
+    "rating": 308.0
+  },
+  {
+    "artist": "C+C Music Factory",
+    "album": "Gonna Make You Sweat",
+    "cover_path": "/covers/cc_music_factory_-_gonna_make_you_sweat.jpg",
+    "rating": 307.5
+  },
+  {
+    "artist": "LeAnn Rimes",
+    "album": "Blue",
+    "cover_path": "/covers/leann_rimes_-_blue.jpg",
+    "rating": 307.5
+  },
+  {
+    "artist": "Eagles",
+    "album": "Hell Freezes Over",
+    "cover_path": "/covers/eagles_-_hell_freezes_over.jpg",
+    "rating": 306.5
+  },
+  {
+    "artist": "Michael Bolton",
+    "album": "Soul Provider",
+    "cover_path": "/covers/michael_bolton_-_soul_provider.jpg",
+    "rating": 306.0
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Meet The Beatles!",
+    "cover_path": "/covers/the_beatles_-_meet_the_beatles.jpg",
+    "rating": 306.0
+  },
+  {
+    "artist": "Al Hirt",
+    "album": "Honey In The Horn",
+    "cover_path": "/covers/al_hirt_-_honey_in_the_horn.jpg",
+    "rating": 304.0
+  },
+  {
+    "artist": "Billy Joel",
+    "album": "The Stranger",
+    "cover_path": "/covers/billy_joel_-_the_stranger.jpg",
+    "rating": 303.5
+  },
+  {
+    "artist": "Drake",
+    "album": "Take Care",
+    "cover_path": "/covers/drake_-_take_care.jpg",
+    "rating": 302.5
+  },
+  {
+    "artist": "Justin Bieber",
+    "album": "Purpose",
+    "cover_path": "/covers/justin_bieber_-_purpose.jpg",
+    "rating": 302.5
+  },
+  {
+    "artist": "Stevie Nicks",
+    "album": "Bella Donna",
+    "cover_path": "/covers/stevie_nicks_-_bella_donna.jpg",
+    "rating": 301.5
+  },
+  {
+    "artist": "Mumford & Sons",
+    "album": "Babel",
+    "cover_path": "/covers/mumford_sons_-_babel.jpg",
+    "rating": 298.0
+  },
+  {
+    "artist": "Lauryn Hill",
+    "album": "The Miseducation Of Lauryn Hill",
+    "cover_path": "/covers/lauryn_hill_-_the_miseducation_of_lauryn_hill.jpg",
+    "rating": 297.5
+  },
+  {
+    "artist": "matchbox 20",
+    "album": "Yourself Or Someone Like You",
+    "cover_path": "/covers/matchbox_20_-_yourself_or_someone_like_you.jpg",
+    "rating": 296.5
+  },
+  {
+    "artist": "Billy Joel",
+    "album": "52nd Street",
+    "cover_path": "/covers/billy_joel_-_52nd_street.jpg",
+    "rating": 296.0
+  },
+  {
+    "artist": "Eagles",
+    "album": "The Long Run",
+    "cover_path": "/covers/eagles_-_the_long_run.jpg",
+    "rating": 295.5
+  },
+  {
+    "artist": "Christopher Cross",
+    "album": "Christopher Cross",
+    "cover_path": "/covers/christopher_cross_-_christopher_cross.jpg",
+    "rating": 295.0
+  },
+  {
+    "artist": "Genesis",
+    "album": "Invisible Touch",
+    "cover_path": "/covers/genesis_-_invisible_touch.jpg",
+    "rating": 294.5
+  },
+  {
+    "artist": "Maroon 5",
+    "album": "V",
+    "cover_path": "/covers/maroon_5_-_v.jpg",
+    "rating": 294.5
+  },
+  {
+    "artist": "Barbra Streisand",
+    "album": "People",
+    "cover_path": "/covers/barbra_streisand_-_people.jpg",
+    "rating": 293.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "album": "New Jersey",
+    "cover_path": "/covers/bon_jovi_-_new_jersey.jpg",
+    "rating": 292.5
+  },
+  {
+    "artist": "Billy Joel",
+    "album": "Glass Houses",
+    "cover_path": "/covers/billy_joel_-_glass_houses.jpg",
+    "rating": 291.5
+  },
+  {
+    "artist": "Cream",
+    "album": "Disraeli Gears",
+    "cover_path": "/covers/cream_-_disraeli_gears.jpg",
+    "rating": 291.5
+  },
+  {
+    "artist": "Justin Timberlake",
+    "album": "FutureSex/LoveSounds",
+    "cover_path": "/covers/justin_timberlake_-_futuresexlovesounds.jpg",
+    "rating": 289.0
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Tattoo You",
+    "cover_path": "/covers/the_rolling_stones_-_tattoo_you.jpg",
+    "rating": 289.0
+  },
+  {
+    "artist": "Adele",
+    "album": "19",
+    "cover_path": "/covers/adele_-_19.jpg",
+    "rating": 288.0
+  },
+  {
+    "artist": "Toni Braxton",
+    "album": "Secrets",
+    "cover_path": "/covers/toni_braxton_-_secrets.jpg",
+    "rating": 288.0
+  },
+  {
+    "artist": "The Cars",
+    "album": "Heartbeat City",
+    "cover_path": "/covers/the_cars_-_heartbeat_city.jpg",
+    "rating": 285.5
+  },
+  {
+    "artist": "John Lennon & Yoko Ono",
+    "album": "Double Fantasy",
+    "cover_path": "/covers/john_lennon_yoko_ono_-_double_fantasy.jpg",
+    "rating": 284.5
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Dangerous",
+    "cover_path": "/covers/michael_jackson_-_dangerous.jpg",
+    "rating": 283.5
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Bookends",
+    "cover_path": "/covers/simon_garfunkel_-_bookends.jpg",
+    "rating": 283.0
+  },
+  {
+    "artist": "Drake",
+    "album": "More Life",
+    "cover_path": "/covers/drake_-_more_life.jpg",
+    "rating": 282.0
+  },
+  {
+    "artist": "Bell Biv DeVoe",
+    "album": "Poison",
+    "cover_path": "/covers/bell_biv_devoe_-_poison.jpg",
+    "rating": 281.5
+  },
+  {
+    "artist": "INXS",
+    "album": "Kick",
+    "cover_path": "/covers/inxs_-_kick.jpg",
+    "rating": 280.5
+  },
+  {
+    "artist": "Nickelback",
+    "album": "Dark Horse",
+    "cover_path": "/covers/nickelback_-_dark_horse.jpg",
+    "rating": 280.0
+  },
+  {
+    "artist": "Rascal Flatts",
+    "album": "Me And My Gang",
+    "cover_path": "/covers/rascal_flatts_-_me_and_my_gang.jpg",
+    "rating": 279.5
+  },
+  {
+    "artist": "Van Halen",
+    "album": "1984",
+    "cover_path": "/covers/van_halen_-_1984.jpg",
+    "rating": 279.0
+  },
+  {
+    "artist": "John Mellencamp",
+    "album": "Scarecrow",
+    "cover_path": "/covers/john_mellencamp_-_scarecrow.jpg",
+    "rating": 278.5
+  },
+  {
+    "artist": "Tim McGraw",
+    "album": "Not A Moment Too Soon",
+    "cover_path": "/covers/tim_mcgraw_-_not_a_moment_too_soon.jpg",
+    "rating": 278.5
+  },
+  {
+    "artist": "Santana",
+    "album": "Santana",
+    "cover_path": "/covers/santana_-_santana.jpg",
+    "rating": 278.0
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "album": "She's So Unusual: A 30th Anniversary Celebration",
+    "cover_path": "/covers/cyndi_lauper_-_shes_so_unusual_a_30th_anniversary_celebration.jpg",
+    "rating": 277.5
+  },
+  {
+    "artist": "Dr. Dre",
+    "album": "The Chronic",
+    "cover_path": "/covers/dr_dre_-_the_chronic.jpg",
+    "rating": 277.5
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Parsley, Sage, Rosemary And Thyme",
+    "cover_path": "/covers/simon_garfunkel_-_parsley_sage_rosemary_and_thyme.jpg",
+    "rating": 277.5
+  },
+  {
+    "artist": "Imagine Dragons",
+    "album": "Evolve",
+    "cover_path": "/covers/imagine_dragons_-_evolve.jpg",
+    "rating": 277.0
+  },
+  {
+    "artist": "The Doors",
+    "album": "The Doors",
+    "cover_path": "/covers/the_doors_-_the_doors.jpg",
+    "rating": 277.0
+  },
+  {
+    "artist": "Paul Simon",
+    "album": "Graceland",
+    "cover_path": "/covers/paul_simon_-_graceland.jpg",
+    "rating": 276.5
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Bridge Over Troubled Water",
+    "cover_path": "/covers/simon_garfunkel_-_bridge_over_troubled_water.jpg",
+    "rating": 276.5
+  },
+  {
+    "artist": "ZZ Top",
+    "album": "Eliminator",
+    "cover_path": "/covers/zz_top_-_eliminator.jpg",
+    "rating": 276.5
+  },
+  {
+    "artist": "Fugees",
+    "album": "The Score",
+    "cover_path": "/covers/fugees_-_the_score.jpg",
+    "rating": 274.0
+  },
+  {
+    "artist": "Enya",
+    "album": "A Day Without Rain",
+    "cover_path": "/covers/enya_-_a_day_without_rain.jpg",
+    "rating": 273.5
+  },
+  {
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "cover_path": "/covers/post_malone_-_beerbongs_bentleys.jpg",
+    "rating": 272.5
+  },
+  {
+    "artist": "Dixie Chicks",
+    "album": "Home",
+    "cover_path": "/covers/dixie_chicks_-_home.jpg",
+    "rating": 272.0
+  },
+  {
+    "artist": "Spin Doctors",
+    "album": "Pocket Full Of Kryptonite",
+    "cover_path": "/covers/spin_doctors_-_pocket_full_of_kryptonite.jpg",
+    "rating": 271.5
+  },
+  {
+    "artist": "Amy Winehouse",
+    "album": "Back To Black",
+    "cover_path": "/covers/amy_winehouse_-_back_to_black.jpg",
+    "rating": 270.0
+  },
+  {
+    "artist": "Limp Bizkit",
+    "album": "Significant Other",
+    "cover_path": "/covers/limp_bizkit_-_significant_other.jpg",
+    "rating": 269.5
+  },
+  {
+    "artist": "The Offspring",
+    "album": "Smash",
+    "cover_path": "/covers/the_offspring_-_smash.jpg",
+    "rating": 269.5
+  },
+  {
+    "artist": "J. Cole",
+    "album": "2014 Forest Hills Drive",
+    "cover_path": "/covers/j_cole_-_2014_forest_hills_drive.jpg",
+    "rating": 268.5
+  },
+  {
+    "artist": "The Black Eyed Peas",
+    "album": "Monkey Business",
+    "cover_path": "/covers/the_black_eyed_peas_-_monkey_business.jpg",
+    "rating": 268.5
+  },
+  {
+    "artist": "Kris Kross",
+    "album": "Totally Krossed Out",
+    "cover_path": "/covers/kris_kross_-_totally_krossed_out.jpg",
+    "rating": 267.5
+  },
+  {
+    "artist": "Pat Benatar",
+    "album": "Crimes Of Passion",
+    "cover_path": "/covers/pat_benatar_-_crimes_of_passion.jpg",
+    "rating": 267.5
+  },
+  {
+    "artist": "Dixie Chicks",
+    "album": "Wide Open Spaces",
+    "cover_path": "/covers/dixie_chicks_-_wide_open_spaces.jpg",
+    "rating": 267.0
+  },
+  {
+    "artist": "Fergie",
+    "album": "The Dutchess",
+    "cover_path": "/covers/fergie_-_the_dutchess.jpg",
+    "rating": 266.0
+  },
+  {
+    "artist": "Styx",
+    "album": "Paradise Theater",
+    "cover_path": "/covers/styx_-_paradise_theater.jpg",
+    "rating": 265.5
+  },
+  {
+    "artist": "The Black Crowes",
+    "album": "Shake Your Money Maker",
+    "cover_path": "/covers/the_black_crowes_-_shake_your_money_maker.jpg",
+    "rating": 265.5
+  },
+  {
+    "artist": "One Direction",
+    "album": "Up All Night",
+    "cover_path": "/covers/one_direction_-_up_all_night.jpg",
+    "rating": 265.0
+  },
+  {
+    "artist": "Bush",
+    "album": "Sixteen Stone",
+    "cover_path": "/covers/bush_-_sixteen_stone.jpg",
+    "rating": 264.5
+  },
+  {
+    "artist": "Prince",
+    "album": "1999",
+    "cover_path": "/covers/prince_-_1999.jpg",
+    "rating": 263.0
+  },
+  {
+    "artist": "Barbra Streisand",
+    "album": "The Barbra Streisand Album",
+    "cover_path": "/covers/barbra_streisand_-_the_barbra_streisand_album.jpg",
+    "rating": 262.5
+  },
+  {
+    "artist": "Meghan Trainor",
+    "album": "Title",
+    "cover_path": "/covers/meghan_trainor_-_title.jpg",
+    "rating": 261.5
+  },
+  {
+    "artist": "Bonnie Raitt",
+    "album": "Luck Of The Draw",
+    "cover_path": "/covers/bonnie_raitt_-_luck_of_the_draw.jpg",
+    "rating": 261.0
+  },
+  {
+    "artist": "Dixie Chicks",
+    "album": "Fly",
+    "cover_path": "/covers/dixie_chicks_-_fly.jpg",
+    "rating": 260.5
+  },
+  {
+    "artist": "Lil Wayne",
+    "album": "Tha Carter III",
+    "cover_path": "/covers/lil_wayne_-_tha_carter_iii.jpg",
+    "rating": 260.5
+  },
+  {
+    "artist": "The Temptations",
+    "album": "The Temptations Greatest Hits",
+    "cover_path": "/covers/the_temptations_-_the_temptations.jpg",
+    "rating": 260.0
+  }
+]

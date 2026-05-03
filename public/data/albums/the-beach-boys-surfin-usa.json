@@ -1,0 +1,1 @@
+{"artist": "The Beach Boys", "album": "Surfin’ USA", "mbid": "a034cc61-e7b0-3d86-92b5-44ef698b0045", "cover_path": "/covers/the_beach_boys_-_surfin_usa.jpg", "tracks": [{"name": "Surfin’ U.S.A.", "energy": 0.675, "valence": 0.91, "danceability": 0.476, "tempo": 159.872}, {"name": "Shut Down", "energy": 0.603, "valence": 0.972, "danceability": 0.563, "tempo": 159.932}]}
