@@ -1,0 +1,30 @@
+{
+  "name": "Hot 100 Ranker",
+  "short_name": "Ranker",
+  "description": "Weight the Hot 100 and compare your year-end list with Billboard.",
+  "start_url": "/ranker",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3e6cc",
+  "theme_color": "#1a120b",
+  "icons": [
+    {
+      "src": "/icons/ranker-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/ranker-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/ranker-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

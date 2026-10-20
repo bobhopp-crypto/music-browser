@@ -1,0 +1,700 @@
+.ranker-root {
+  --hot100-paper: #f3e6cc;
+  --hot100-paper-2: #efe0c0;
+  --hot100-ink: #1a120b;
+  --hot100-ink-soft: #3b2c1e;
+  --hot100-red: #9a1c1c;
+  --hot100-teal: #0b4743;
+  --hot100-cream: #fff8ec;
+  --ranker-gold: #8a5a00;
+  min-height: calc(100dvh - var(--rv-global-nav-height, 3rem));
+  color: var(--hot100-ink);
+  background-color: var(--hot100-paper);
+  background-image:
+    linear-gradient(180deg, rgba(255, 250, 240, 0.55), rgba(214, 186, 140, 0.18)),
+    repeating-linear-gradient(0deg, rgba(70, 42, 16, 0.035) 0 1px, transparent 1px 3px);
+  font-family: var(--hot100-serif), Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+.ranker-sheet {
+  width: min(76rem, calc(100% - 1rem));
+  min-width: 0;
+  margin: 0 auto;
+  padding: 0.75rem 0 calc(1.6rem + env(safe-area-inset-bottom, 0px));
+}
+
+.ranker-mast {
+  margin-bottom: 0.75rem;
+  padding: 0.2rem 0 0.7rem;
+  border-top: 7px solid var(--hot100-ink);
+  border-bottom: 3px solid var(--hot100-ink);
+  box-shadow: inset 0 -8px 0 var(--hot100-red);
+}
+
+.ranker-brand {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0 0 0.2rem;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.ranker-brand a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  color: var(--hot100-ink);
+  text-underline-offset: 0.18em;
+}
+
+.ranker-kicker {
+  margin: 0;
+  color: var(--hot100-red);
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.ranker-title {
+  margin: 0;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: clamp(3.1rem, 14vw, 5.4rem);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 0.84;
+  text-transform: uppercase;
+}
+
+.ranker-lede {
+  max-width: 40rem;
+  margin: 0.4rem 0 0;
+  font-size: 1.05rem;
+  font-style: italic;
+}
+
+.ranker-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  min-width: 0;
+}
+
+.ranker-controls,
+.ranker-results {
+  min-width: 0;
+}
+
+.ranker-sticky {
+  position: sticky;
+  top: var(--rv-global-nav-height, 3rem);
+  z-index: 4;
+  margin: 0 -0.15rem;
+  padding: 0.35rem 0.15rem 0.45rem;
+  background: rgba(243, 230, 204, 0.96);
+}
+
+.ranker-yearbar {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr) 3rem;
+  gap: 0.4rem;
+  align-items: stretch;
+}
+
+.ranker-yearbar button,
+.ranker-yearbar select,
+.ranker-presets button,
+.ranker-choice,
+.ranker-fit button,
+.ranker-tabs button,
+.ranker-check {
+  box-sizing: border-box;
+  min-height: 2.75rem;
+  border: 2px solid var(--hot100-ink);
+  background: var(--hot100-cream);
+  color: var(--hot100-ink);
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.ranker-yearbar button {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.ranker-yearbar select {
+  width: 100%;
+  padding: 0.35rem 1.8rem 0.35rem 0.7rem;
+  border-radius: 0;
+  appearance: none;
+  background-color: var(--hot100-cream);
+  background-image:
+    linear-gradient(45deg, transparent 50%, var(--hot100-ink) 50%),
+    linear-gradient(135deg, var(--hot100-ink) 50%, transparent 50%);
+  background-position: calc(100% - 1rem) 55%, calc(100% - 0.65rem) 55%;
+  background-size: 0.4rem 0.4rem, 0.4rem 0.4rem;
+  background-repeat: no-repeat;
+  font-family: var(--hot100-serif), Georgia, serif;
+}
+
+.ranker-window-note {
+  margin: 0.35rem 0 0;
+  color: var(--hot100-ink-soft);
+  font-size: 0.92rem;
+}
+
+.ranker-scores {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4rem;
+  margin-top: 0.45rem;
+}
+
+.ranker-score {
+  min-width: 0;
+  padding: 0.4rem 0.5rem 0.45rem;
+  border: 2px solid var(--hot100-ink);
+  background: var(--hot100-cream);
+}
+
+.ranker-score__n {
+  margin: 0;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: clamp(1.35rem, 5.4vw, 1.8rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+
+.ranker-score__l {
+  margin: 0.15rem 0 0;
+  color: var(--hot100-ink-soft);
+  font-size: 0.78rem;
+  line-height: 1.25;
+}
+
+.ranker-kicker-row {
+  margin: 0.85rem 0 0.35rem;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.ranker-presets,
+.ranker-choices,
+.ranker-fit {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4rem;
+}
+
+.ranker-presets button[aria-pressed="true"],
+.ranker-choice[aria-pressed="true"] {
+  background: var(--hot100-ink);
+  color: var(--hot100-cream);
+}
+
+.ranker-note,
+.ranker-help,
+.ranker-status,
+.ranker-foot,
+.ranker-log {
+  color: var(--hot100-ink-soft);
+  font-size: 0.95rem;
+}
+
+.ranker-note {
+  margin: 0.4rem 0 0;
+  font-style: italic;
+}
+
+.ranker-check {
+  display: flex;
+  gap: 0.55rem;
+  align-items: center;
+  width: 100%;
+  margin-top: 0.4rem;
+  padding: 0.45rem 0.65rem;
+  text-align: left;
+  text-transform: none;
+  letter-spacing: 0;
+  font-family: var(--hot100-serif), Georgia, serif;
+  font-weight: 600;
+}
+
+.ranker-check input {
+  width: 1.25rem;
+  height: 1.25rem;
+  accent-color: var(--hot100-red);
+}
+
+.ranker-slider {
+  margin: 0.15rem 0 0.7rem;
+}
+
+.ranker-slider label {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  justify-content: space-between;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.ranker-slider .ranker-val {
+  flex: 0 0 auto;
+  color: var(--hot100-red);
+  font-variant-numeric: tabular-nums;
+}
+
+.ranker-slider input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: 2.75rem;
+  margin: 0;
+  background: transparent;
+  touch-action: none;
+}
+
+.ranker-slider input[type="range"]:focus-visible {
+  outline: 3px solid var(--hot100-red);
+  outline-offset: 2px;
+}
+
+.ranker-slider input[type="range"]::-webkit-slider-runnable-track {
+  height: 0.55rem;
+  border: 2px solid var(--hot100-ink);
+  border-radius: 999px;
+  background: var(--hot100-cream);
+}
+
+.ranker-slider input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 1.85rem;
+  height: 1.85rem;
+  margin-top: -0.75rem;
+  border: 2px solid var(--hot100-ink);
+  border-radius: 50%;
+  background: var(--hot100-red);
+}
+
+.ranker-slider input[type="range"]::-moz-range-track {
+  height: 0.55rem;
+  border: 2px solid var(--hot100-ink);
+  border-radius: 999px;
+  background: var(--hot100-cream);
+}
+
+.ranker-slider input[type="range"]::-moz-range-thumb {
+  width: 1.85rem;
+  height: 1.85rem;
+  border: 2px solid var(--hot100-ink);
+  border-radius: 50%;
+  background: var(--hot100-red);
+}
+
+.ranker-help {
+  margin: -0.2rem 0 0;
+  font-size: 0.86rem;
+}
+
+.ranker-more {
+  margin-top: 0.2rem;
+  border-top: 2px solid var(--hot100-ink);
+}
+
+.ranker-more summary {
+  display: flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.ranker-tabs {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.35rem;
+  margin-bottom: 0.55rem;
+}
+
+.ranker-tabs button[aria-selected="true"] {
+  background: var(--hot100-ink);
+  color: var(--hot100-cream);
+}
+
+.ranker-list {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.ranker-list__head {
+  display: none;
+}
+
+.ranker-card {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-areas:
+    "rank title score"
+    "meta meta meta"
+    "run run run";
+  gap: 0.1rem 0.6rem;
+  padding: 0.7rem 0.1rem;
+  border-bottom: 1px solid rgba(26, 18, 11, 0.72);
+  content-visibility: auto;
+  contain-intrinsic-size: auto 8.5rem;
+}
+
+.ranker-card--lead {
+  background: rgba(154, 28, 28, 0.07);
+}
+
+.ranker-card__rank {
+  grid-area: rank;
+  min-width: 2.2rem;
+  padding-right: 0.4rem;
+  border-right: 2px solid var(--hot100-ink);
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 1.7rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 0.9;
+  text-align: right;
+}
+
+.ranker-card--lead .ranker-card__rank {
+  color: var(--hot100-red);
+}
+
+.ranker-card__id {
+  grid-area: title;
+  min-width: 0;
+}
+
+.ranker-card__title {
+  margin: 0;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 1.12rem;
+  font-weight: 600;
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+
+.ranker-card__artist {
+  margin: 0;
+  color: var(--hot100-ink-soft);
+  font-style: italic;
+  overflow-wrap: anywhere;
+}
+
+.ranker-card__score {
+  grid-area: score;
+  margin: 0;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 1.15rem;
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  text-align: right;
+}
+
+.ranker-card__meta,
+.ranker-card__run {
+  grid-area: meta;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.7rem;
+  margin: 0.2rem 0 0;
+  font-size: 0.95rem;
+}
+
+.ranker-card__run {
+  grid-area: run;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.7rem;
+  align-items: center;
+  margin: 0.15rem 0 0;
+}
+
+.ranker-card__runline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+  min-width: 0;
+  color: var(--hot100-ink-soft);
+  font-size: 0.92rem;
+}
+
+.ranker-card__climb::before {
+  content: attr(data-k);
+  margin-right: 0.28rem;
+  color: var(--hot100-ink-soft);
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.ranker-card__meta dt,
+.ranker-card__run dt {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+.ranker-card__meta dd,
+.ranker-card__run dd {
+  display: flex;
+  gap: 0.28rem;
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.ranker-card__meta dd::before,
+.ranker-card__run dd::before {
+  content: attr(data-k);
+  color: var(--hot100-ink-soft);
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.ranker-diff {
+  display: inline-block;
+  min-width: 2.2rem;
+  padding: 0 0.28rem;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+.ranker-diff--near {
+  background: #d9efdf;
+  color: var(--hot100-teal);
+}
+
+.ranker-diff--mid {
+  background: #f4e2b0;
+  color: var(--ranker-gold);
+}
+
+.ranker-diff--far {
+  background: #f4d0cb;
+  color: var(--hot100-red);
+}
+
+.ranker-diff--miss {
+  color: var(--hot100-ink-soft);
+}
+
+.ranker-spark {
+  display: block;
+  width: 7.5rem;
+  height: 1.6rem;
+}
+
+.ranker-prose,
+.ranker-miss {
+  padding: 0.75rem 0.7rem;
+  border: 2px solid var(--hot100-ink);
+  background: rgba(255, 248, 236, 0.72);
+}
+
+.ranker-prose h2,
+.ranker-miss h2 {
+  margin: 0 0 0.4rem;
+  font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.ranker-miss + .ranker-miss {
+  margin-top: 0.45rem;
+}
+
+.ranker-miss p {
+  margin: 0.15rem 0;
+}
+
+.ranker-log {
+  margin: 0.45rem 0 0;
+  white-space: pre-wrap;
+}
+
+.ranker-foot {
+  margin-top: 1rem;
+  padding-top: 0.7rem;
+  border-top: 2px solid var(--hot100-ink);
+}
+
+.ranker-foot p {
+  margin: 0.25rem 0;
+}
+
+.ranker-root button:focus-visible,
+.ranker-root select:focus-visible,
+.ranker-root a:focus-visible,
+.ranker-root summary:focus-visible {
+  outline: 3px solid var(--hot100-red);
+  outline-offset: 2px;
+}
+
+@media (min-width: 720px) {
+  .ranker-tabs {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .ranker-scores {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 960px) {
+  .ranker-sheet {
+    width: min(76rem, calc(100% - 1.4rem));
+  }
+
+  .ranker-layout {
+    display: grid;
+    grid-template-columns: minmax(18rem, 23rem) minmax(0, 1fr);
+    gap: 1rem;
+    align-items: start;
+  }
+
+  .ranker-controls {
+    position: sticky;
+    top: calc(var(--rv-global-nav-height, 3rem) + 0.4rem);
+    max-height: calc(100dvh - var(--rv-global-nav-height, 3rem) - 1rem);
+    overflow: auto;
+    padding-right: 0.2rem;
+  }
+
+  .ranker-sticky {
+    position: static;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+  }
+
+  .ranker-list__head,
+  .ranker-card {
+    display: grid;
+    grid-template-columns:
+      2.6rem
+      minmax(8rem, 1.5fr)
+      4.2rem
+      3.4rem
+      3.6rem
+      3.2rem
+      3rem
+      3rem
+      2.6rem
+      3.2rem
+      3.2rem
+      minmax(7rem, 1.15fr)
+      3rem;
+    grid-template-areas: none;
+    gap: 0.2rem;
+    align-items: center;
+  }
+
+  .ranker-list__head {
+    padding: 0.25rem 0;
+    border-bottom: 2px solid var(--hot100-ink);
+    color: var(--hot100-ink-soft);
+    font-family: var(--hot100-gothic), "Arial Narrow", Impact, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .ranker-card__rank,
+  .ranker-card__id,
+  .ranker-card__score,
+  .ranker-card__meta,
+  .ranker-card__run {
+    grid-area: auto;
+  }
+
+  .ranker-card__rank {
+    border-right: 0;
+    font-size: 1.15rem;
+  }
+
+  .ranker-card__title {
+    font-size: 0.98rem;
+  }
+
+  .ranker-card__artist {
+    font-size: 0.86rem;
+  }
+
+  .ranker-card__score {
+    font-size: 0.95rem;
+    text-align: right;
+  }
+
+  .ranker-card__meta,
+  .ranker-card__run {
+    display: contents;
+  }
+
+  .ranker-card__meta dd::before,
+  .ranker-card__climb::before {
+    content: none;
+  }
+
+  .ranker-card__meta dd {
+    justify-content: flex-end;
+  }
+
+  .ranker-card__runline {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.1rem;
+  }
+
+  .ranker-card__climb {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .ranker-spark {
+    width: 6.2rem;
+  }
+}
+
+@media (max-width: 389px) {
+  .ranker-presets,
+  .ranker-choices,
+  .ranker-fit {
+    grid-template-columns: 1fr;
+  }
+}
